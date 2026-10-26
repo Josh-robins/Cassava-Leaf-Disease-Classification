@@ -12,7 +12,7 @@ The dataset used was obtained from Kaggle and can be found here: https://www.kag
 
 ![image](https://github.com/user-attachments/assets/7c2c6918-e343-41be-82ac-297c94bf07fd)
 
-Home page of the web app
+**Home page of the web app**
 
 ![image](https://github.com/user-attachments/assets/76f6d2cc-6b2c-497e-b70f-a300dfd81b68)
 
